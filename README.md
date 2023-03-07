@@ -3,5 +3,4 @@
 Basic react standalone todo list
 
 To run:
-npm start
-open http://localhost:3000/
+npm i, npm run start, open http://localhost:3000/
